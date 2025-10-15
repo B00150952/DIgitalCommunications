@@ -1,10 +1,8 @@
 # DIgitalCommunications
 Mark Deegan Digital Communications
 
-Start writing things here
-
-THe assignment is as follows:
+The assignment is as follows:
 RLE, C, SampleData.txt, SampleData.rle
 Statistics
 
-10% extera Gaeilge.
+Má scríobhann tú an tasc seo i nGaeilge, bronnfaidh mé marcanna breise, díreach mar atá san Ardteistiméireacht.
