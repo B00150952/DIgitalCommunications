@@ -7,3 +7,4 @@ THe assignment is as follows:
 RLE, C, SampleData.txt, SampleData.rle
 Statistics
 
+10% extera Gaeilge.
