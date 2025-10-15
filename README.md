@@ -6,7 +6,7 @@ The assignment is as follows:
 The task is to write a command-line applicaiton using C, C++, Java or any programming language we want. The applicaiton needs to implement a *RunLength Encoding* algorithm to compress a stream of text characte
 ## Data Source
 The data may be taken from any one of (or several) sources, including from 
-### A file names SampleData.txt
+### A file name SampleData.txt
 ### An array of characters defined in the code as a constant
 ### Supplied on the Command-Line and processed using the argc, argvv variables
 ### Supplied as part of the standard input stream *stdin*
