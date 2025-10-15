@@ -1,4 +1,4 @@
-# DIgitalCommunications
+# DigitalCommunications
 Mark Deegan Digital Communications
 
 The assignment is as follows:
